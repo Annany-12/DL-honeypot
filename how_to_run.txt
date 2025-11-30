@@ -1,0 +1,8 @@
+0. Go to "Working_AIDL_honeypot_sim" and turn on "venv" and then this will also work, fine.
+1. Download the python version 3.11. Specifically "3.11.9" version from official Python website.
+2. Creata a python 3.11 version "venv" using the command "py -3.11 -m venv honeypot_env".
+3. Activate the venv and then install all the requierments using the requierments.txt file.
+4. In the venv terminal run the command of "streamlit run src/dashboard/monitor.py"
+5. In the Streamlit dashboard in the Sidebar Press the "Start Honeypot" button and wait for the Green Signal below it.
+6. After turning on the Honeypot In another terminal run this command to connect to the fake Shell "ssh admin@localhost -p 2222"
+6. If Error in SSH command delete the entry starting from "localhost" from the file in path "C:\Users\%USERNAME%\.ssh\known_hosts". Don't delete any other SSH entry.

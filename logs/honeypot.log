@@ -1,0 +1,765 @@
+2025-09-04 10:55:41,781 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 10:55:41,783 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 10:55:41,784 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 10:55:51,093 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 10:57:17,257 - honeypot - INFO - Honeypot Simulator shutting down.
+2025-09-04 10:58:32,916 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 10:58:32,916 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 10:58:32,922 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 10:58:32,922 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 10:58:32,925 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 10:58:32,925 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 10:58:38,345 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 10:58:38,345 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 10:58:55,672 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 10:58:55,672 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 10:58:55,674 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 10:58:55,674 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 10:58:55,674 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 10:58:55,674 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 10:59:00,726 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 10:59:00,726 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 10:59:33,752 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 10:59:33,752 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 10:59:33,754 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 10:59:33,754 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 10:59:33,755 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 10:59:33,755 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 10:59:38,814 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 10:59:38,814 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:00:55,401 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:00:55,401 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:00:55,403 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:00:55,403 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:00:55,404 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:00:55,404 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:01:00,476 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:01:00,476 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:07:48,209 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:07:48,211 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:07:48,211 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:07:53,507 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:11:12,159 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:11:12,159 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:11:12,161 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:11:12,161 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:11:12,161 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:11:12,161 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:11:12,162 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:11:12,162 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:11:12,163 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:11:12,163 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:11:12,163 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:11:12,163 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:11:17,811 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:11:17,811 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:12:34,573 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:12:34,573 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:12:34,575 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:12:34,575 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:12:34,575 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:12:34,575 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:12:39,616 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:12:39,616 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:17:54,704 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:17:54,704 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:17:54,705 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:17:54,705 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:17:54,705 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:17:54,705 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:17:59,835 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:17:59,835 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:31:47,606 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:31:47,608 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:31:47,608 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:31:52,973 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:34:24,545 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:34:24,546 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:34:24,547 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:34:29,596 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:37:09,847 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 11:37:09,849 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 11:41:11,751 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:41:11,751 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:41:11,751 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:41:11,752 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:41:11,752 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:41:11,752 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:41:11,753 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:41:11,753 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:41:11,753 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:41:12,789 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:41:12,789 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:41:12,789 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:41:12,792 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:41:12,792 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:41:12,792 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:41:12,793 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:41:12,793 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:41:12,793 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:41:13,948 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:41:13,948 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:41:13,948 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:41:13,950 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:41:13,950 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:41:13,950 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:41:13,952 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:41:13,952 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:41:13,952 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:41:18,035 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:41:18,035 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:41:18,035 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:42:10,182 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 11:42:10,182 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 11:42:10,182 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 11:42:10,183 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 11:42:10,183 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 11:42:10,183 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 11:44:59,836 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:44:59,838 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:44:59,839 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:45:05,220 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:46:31,600 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 11:46:31,600 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 11:46:44,745 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:46:44,746 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:46:44,747 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:46:49,886 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:49:58,006 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:49:58,008 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:49:58,008 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:50:03,371 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:55:32,072 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:55:32,074 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:55:32,075 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:55:37,434 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 11:56:20,863 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 11:56:20,863 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 11:56:39,568 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 11:56:39,569 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 11:56:39,569 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 11:56:44,716 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:06:33,956 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:06:33,957 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:06:33,957 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:06:39,302 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:07:10,415 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 12:07:10,415 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 12:13:11,149 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:13:11,149 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:13:11,149 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:13:16,534 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:13:30,495 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:13:30,497 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:13:30,498 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:13:31,536 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:13:39,119 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:13:39,119 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:13:39,119 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:13:44,148 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:14:02,327 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 12:14:02,333 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 12:16:53,817 - honeypot - INFO - Command 'whomi' executed by 127.0.0.1
+2025-09-04 12:16:57,808 - honeypot - INFO - Command 'whomi' executed by 127.0.0.1
+2025-09-04 12:17:04,498 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:17:04,499 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:17:04,499 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:17:09,679 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:18:03,973 - honeypot - INFO - Command 'aham' executed by 127.0.0.1
+2025-09-04 12:18:07,049 - honeypot - INFO - Command 'aham' executed by 127.0.0.1
+2025-09-04 12:18:24,522 - honeypot - INFO - Command 'ostnels' executed by 127.0.0.1
+2025-09-04 12:18:27,571 - honeypot - INFO - Command 'ostnels' executed by 127.0.0.1
+2025-09-04 12:18:54,500 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:18:54,501 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:18:54,501 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:18:59,595 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:19:21,538 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:19:21,542 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:19:21,542 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:19:26,724 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:19:33,535 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:19:33,537 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:19:33,538 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:19:38,656 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:19:56,527 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:19:56,529 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:19:56,529 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:20:01,719 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:25:06,147 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:25:06,147 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:25:06,147 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:25:11,955 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:54:11,926 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 12:54:11,929 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 12:54:11,930 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 12:54:17,264 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 12:54:49,107 - honeypot - INFO - SSH auth attempt: admin:admin from 127.0.0.1
+2025-09-04 12:54:49,107 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 12:54:58,156 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 12:55:01,574 - honeypot - INFO - Command 'admin' executed by 127.0.0.1
+2025-09-04 12:55:05,202 - honeypot - INFO - Command 'admin' executed by 127.0.0.1
+2025-09-04 12:55:10,125 - honeypot - INFO - Command 'm' executed by 127.0.0.1
+2025-09-04 12:55:13,262 - honeypot - INFO - Command 'm' executed by 127.0.0.1
+2025-09-04 12:55:16,238 - honeypot - INFO - Command 'whoail' executed by 127.0.0.1
+2025-09-04 12:55:19,156 - honeypot - INFO - Command 'whoail' executed by 127.0.0.1
+2025-09-04 13:01:32,015 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 13:01:32,016 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 13:01:32,017 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 13:01:37,242 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 13:04:54,802 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 13:04:54,803 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 13:04:54,803 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 13:04:59,900 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 13:07:09,238 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 13:07:09,239 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 13:07:09,240 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 13:07:13,185 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 13:07:13,187 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 13:07:13,187 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 13:07:14,614 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 13:07:18,206 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 13:07:22,696 - honeypot - INFO - SSH auth attempt: admin:admin from 127.0.0.1
+2025-09-04 13:07:22,696 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 13:07:32,752 - honeypot - INFO - Starting AI-driven Honeypot Simulator...
+2025-09-04 13:07:32,753 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 13:07:32,753 - honeypot - INFO - Starting Streamlit dashboard on port 8501
+2025-09-04 13:07:37,862 - honeypot - ERROR - Error starting Streamlit dashboard: module 'streamlit' has no attribute 'experimental_rerun'
+2025-09-04 13:21:55,775 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 13:21:55,780 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 13:21:55,781 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 13:22:15,426 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 13:22:15,426 - honeypot - INFO - SSH Honeypot already running.
+2025-09-04 13:22:15,427 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 13:24:23,282 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 13:24:23,285 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 13:24:23,286 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 13:25:02,216 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 13:25:02,216 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 13:25:22,068 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 13:25:22,068 - honeypot - INFO - SSH Honeypot already running.
+2025-09-04 13:25:22,069 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 13:30:10,243 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 13:30:10,246 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 13:30:10,247 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 13:30:36,535 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 13:30:36,536 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 13:32:15,079 - honeypot - INFO - Honeypot Simulator components stopped.
+2025-09-04 13:34:39,439 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 13:34:39,442 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 13:34:39,443 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 13:34:56,401 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 13:34:56,401 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 13:35:06,140 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 13:35:11,810 - honeypot - INFO - Command 'admin' executed by 127.0.0.1
+2025-09-04 13:35:11,810 - honeypot - INFO - Command 'admin' executed by 127.0.0.1
+2025-09-04 13:35:14,374 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-04 13:35:14,374 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-04 13:35:22,775 - honeypot - INFO - Command 'cd Downloads' executed by 127.0.0.1
+2025-09-04 13:35:24,885 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 13:35:27,512 - honeypot - INFO - Command 'cd ..' executed by 127.0.0.1
+2025-09-04 13:35:28,559 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 13:35:30,861 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 13:35:30,862 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 13:42:00,763 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 13:42:00,765 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 13:42:00,766 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 13:42:31,288 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 13:42:31,288 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 13:42:36,042 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 13:42:36,042 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 13:42:37,951 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 13:42:43,662 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 13:43:16,240 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 13:43:18,953 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 13:43:18,954 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 13:43:21,530 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 13:43:25,157 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 13:43:56,169 - honeypot - INFO - Command 'cat notes.txt' executed by 127.0.0.1
+2025-09-04 13:43:56,170 - honeypot - INFO - File read: notes.txt by 127.0.0.1
+2025-09-04 13:43:59,699 - honeypot - INFO - Command 'cat notes.txt' executed by 127.0.0.1
+2025-09-04 13:44:11,702 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 13:44:15,345 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 13:44:36,289 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 13:44:36,289 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 13:44:39,601 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 14:14:06,841 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 14:14:06,842 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 14:14:06,843 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 14:14:42,819 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 14:14:42,820 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 14:18:18,650 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-04 14:18:18,650 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-04 14:18:23,788 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 14:18:25,568 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 14:21:08,533 - honeypot - INFO - Command 'hostname' executed by 127.0.0.1
+2025-09-04 14:21:08,541 - honeypot - INFO - Command 'hostname' executed by 127.0.0.1
+2025-09-04 14:21:17,091 - honeypot - INFO - Command 'ls -l /' executed by 127.0.0.1
+2025-09-04 14:21:18,322 - honeypot - INFO - Command 'ls -l /' executed by 127.0.0.1
+2025-09-04 14:21:26,981 - honeypot - INFO - Command 'ls -l /' executed by 127.0.0.1
+2025-09-04 14:21:28,306 - honeypot - INFO - Command 'ls -l /' executed by 127.0.0.1
+2025-09-04 14:21:44,719 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 14:21:46,428 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 14:22:00,849 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 14:22:03,492 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 14:22:04,890 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 14:22:11,992 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 14:22:11,992 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-04 14:22:15,258 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 14:22:50,405 - honeypot - INFO - Command 'mysql -u root -p admin' executed by 127.0.0.1
+2025-09-04 14:22:58,158 - honeypot - INFO - Command 'show databases;' executed by 127.0.0.1
+2025-09-04 14:22:58,158 - honeypot - INFO - Command 'show databases;' executed by 127.0.0.1
+2025-09-04 14:23:03,872 - honeypot - INFO - Command 'show databases' executed by 127.0.0.1
+2025-09-04 14:23:03,872 - honeypot - INFO - Command 'show databases' executed by 127.0.0.1
+2025-09-04 14:23:14,928 - honeypot - INFO - Command 'mysql' executed by 127.0.0.1
+2025-09-04 14:23:21,416 - honeypot - INFO - Command 'help' executed by 127.0.0.1
+2025-09-04 14:23:21,416 - honeypot - INFO - Command 'help' executed by 127.0.0.1
+2025-09-04 14:24:55,088 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 14:24:56,691 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 14:25:04,482 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 14:25:04,482 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 14:25:04,482 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 14:25:22,434 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 14:25:22,434 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 14:25:53,492 - honeypot - INFO - Command 'mysql -e "show tables;"' executed by 127.0.0.1
+2025-09-04 14:26:06,219 - honeypot - INFO - Command 'mysql -e "SELECT * FROM customers LIMIT 5;"' executed by 127.0.0.1
+2025-09-04 14:26:44,066 - honeypot - INFO - Command 'mysql -e "SELECT * FROM customers LIMIT 5;"' executed by 127.0.0.1
+2025-09-04 14:26:57,712 - honeypot - INFO - Command 'mysql -e "SELECT * FROM customers LIMIT 5;"' executed by 127.0.0.1
+2025-09-04 14:27:36,872 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 14:27:38,566 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 14:27:45,869 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 14:27:45,870 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 14:47:01,903 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 14:47:01,906 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 14:47:01,907 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 14:47:29,831 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 14:47:29,831 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 15:06:24,309 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 15:06:24,311 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 15:06:24,312 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 15:06:41,018 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 15:06:41,018 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 15:06:45,768 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-04 15:06:45,768 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-04 15:06:57,394 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 15:06:59,296 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 15:07:08,844 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 15:07:10,352 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 15:07:12,117 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 15:07:22,977 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 15:07:22,979 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 15:07:44,274 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 15:08:45,492 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-04 15:09:22,082 - honeypot - INFO - Command 'SELECT * FROM customers LIMIT 5;' executed by 127.0.0.1
+2025-09-04 15:09:22,083 - honeypot - INFO - Command 'SELECT * FROM customers LIMIT 5;' executed by 127.0.0.1
+2025-09-04 15:09:33,896 - honeypot - INFO - Command 'mysql - e "SELECT * FROM customers LIMIT 5;"' executed by 127.0.0.1
+2025-09-04 15:09:46,675 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 15:09:48,082 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 15:09:54,218 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 15:09:54,218 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-04 15:09:57,378 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 15:10:22,453 - honeypot - INFO - Command 'mysql -u root -p admin' executed by 127.0.0.1
+2025-09-04 15:10:28,925 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 15:10:28,925 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 15:10:43,219 - honeypot - INFO - Command 'show databases' executed by 127.0.0.1
+2025-09-04 15:10:43,220 - honeypot - INFO - Command 'show databases' executed by 127.0.0.1
+2025-09-04 15:25:49,766 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 15:25:49,768 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 15:25:49,769 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 15:26:08,230 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 15:26:08,230 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 15:34:20,492 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 15:34:20,499 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 15:34:20,500 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 15:34:44,314 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 15:34:44,314 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 15:36:38,507 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 15:36:38,509 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 15:36:38,509 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 15:37:06,037 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 15:37:06,037 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 15:40:23,818 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 15:40:23,821 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 15:40:23,823 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 15:40:41,480 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 15:40:41,480 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 15:40:50,926 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 15:40:53,057 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 15:41:10,847 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 15:41:10,848 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 15:41:14,051 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-04 15:41:14,051 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-04 15:41:19,683 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 15:41:19,683 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 15:41:21,394 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 15:41:22,855 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 15:41:29,375 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 15:41:29,377 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 15:41:46,158 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 15:42:06,000 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 15:42:06,001 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 15:42:06,080 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 15:42:17,625 - honeypot - INFO - Command 'cat password.txt' executed by 127.0.0.1
+2025-09-04 15:42:23,448 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 15:42:24,752 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 15:42:36,569 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 15:42:36,571 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-04 15:42:38,095 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 15:43:07,293 - honeypot - INFO - Command 'mysql' executed by 127.0.0.1
+2025-09-04 15:43:09,719 - honeypot - INFO - Command 'clear' executed by 127.0.0.1
+2025-09-04 15:43:09,719 - honeypot - INFO - Command 'clear' executed by 127.0.0.1
+2025-09-04 15:43:26,235 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-04 15:43:26,235 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-04 15:50:16,586 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 15:50:16,588 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 15:50:16,590 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 15:50:42,155 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 15:50:42,155 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 15:51:37,083 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 15:51:37,083 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 15:51:42,631 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 15:51:44,772 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 15:51:52,884 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 15:51:52,884 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 15:51:54,480 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 15:51:55,736 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 15:52:04,973 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 15:52:04,982 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 15:52:21,780 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 15:52:36,475 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 15:52:36,478 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-04 15:52:39,875 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 15:53:03,882 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 15:53:03,884 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-04 16:15:26,404 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 16:15:26,408 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 16:15:26,409 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 16:15:44,180 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 16:15:44,180 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 16:16:38,756 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 16:16:40,615 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 16:16:49,760 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 16:16:49,760 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 16:16:53,343 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 16:16:54,626 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 16:17:01,756 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 16:17:01,759 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 16:17:18,964 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 16:18:23,434 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 16:18:23,437 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-04 16:18:23,438 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 16:18:35,782 - honeypot - INFO - Command 'cat notes.txt' executed by 127.0.0.1
+2025-09-04 16:18:35,784 - honeypot - INFO - File read: notes.txt by 127.0.0.1
+2025-09-04 16:18:39,196 - honeypot - INFO - Command 'cat notes.txt' executed by 127.0.0.1
+2025-09-04 16:19:00,056 - honeypot - INFO - Command 'mysql -u root -p admin' executed by 127.0.0.1
+2025-09-04 16:19:18,804 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-04 16:19:18,805 - honeypot - INFO - Command 'mysql -e show databases;' executed by 127.0.0.1
+2025-09-04 16:20:07,546 - honeypot - INFO - Command 'netstat' executed by 127.0.0.1
+2025-09-04 16:20:09,531 - honeypot - INFO - Command 'netstat ' executed by 127.0.0.1
+2025-09-04 16:20:16,339 - honeypot - INFO - Command 'netstat' executed by 127.0.0.1
+2025-09-04 16:20:17,746 - honeypot - INFO - Command 'netstat ' executed by 127.0.0.1
+2025-09-04 16:35:30,364 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 16:35:30,367 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 16:35:30,368 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 16:35:58,009 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 16:35:58,009 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 16:35:59,948 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 16:36:02,129 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 16:36:08,946 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 16:36:08,946 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 16:36:11,060 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 16:36:12,811 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 16:36:20,161 - honeypot - INFO - Command 'cat app.py' executed by 127.0.0.1
+2025-09-04 16:36:26,686 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 16:36:26,686 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-04 16:36:32,736 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 16:36:32,738 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-04 16:36:32,739 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 16:36:39,547 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 16:36:39,549 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 16:36:56,792 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 16:37:04,235 - honeypot - INFO - Command 'mysql' executed by 127.0.0.1
+2025-09-04 16:37:07,543 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 16:37:08,911 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 16:37:17,486 - honeypot - INFO - Command 'cat notes.txt' executed by 127.0.0.1
+2025-09-04 16:37:17,488 - honeypot - INFO - File read: notes.txt by 127.0.0.1
+2025-09-04 16:37:21,055 - honeypot - INFO - Command 'cat notes.txt' executed by 127.0.0.1
+2025-09-04 16:37:38,785 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 16:37:40,368 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 16:37:58,069 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 16:37:58,072 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-04 16:37:58,073 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-04 16:40:09,114 - honeypot - INFO - Command 'mysql -u root -p admin' executed by 127.0.0.1
+2025-09-04 16:40:23,914 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-04 16:40:23,914 - honeypot - INFO - Command 'mysql -e show databases;' executed by 127.0.0.1
+2025-09-04 16:40:41,261 - honeypot - INFO - Command 'mysql -e "show tables;"' executed by 127.0.0.1
+2025-09-04 16:40:41,262 - honeypot - INFO - Command 'mysql -e show tables;' executed by 127.0.0.1
+2025-09-04 16:40:49,631 - honeypot - INFO - Command 'nmap localhost' executed by 127.0.0.1
+2025-09-04 16:40:49,632 - honeypot - INFO - Command 'nmap localhost' executed by 127.0.0.1
+2025-09-04 16:41:24,098 - honeypot - INFO - Command 'mysql -e "use app_db;"' executed by 127.0.0.1
+2025-09-04 16:41:24,099 - honeypot - INFO - Command 'mysql -e use app_db;' executed by 127.0.0.1
+2025-09-04 16:41:48,072 - honeypot - INFO - Command 'mysql -e "SELECT * FROM customers LIMIT 5;"' executed by 127.0.0.1
+2025-09-04 16:41:48,130 - honeypot - INFO - Command 'mysql -e SELECT * FROM customers LIMIT 5;' executed by 127.0.0.1
+2025-09-04 16:41:58,789 - honeypot - INFO - Command 'mysql -e "SELECT * FROM customers LIMIT 5;"' executed by 127.0.0.1
+2025-09-04 16:41:58,844 - honeypot - INFO - Command 'mysql -e SELECT * FROM customers LIMIT 5;' executed by 127.0.0.1
+2025-09-04 16:42:07,675 - honeypot - INFO - Command 'clear' executed by 127.0.0.1
+2025-09-04 16:42:07,676 - honeypot - INFO - Command 'clear' executed by 127.0.0.1
+2025-09-04 16:42:11,697 - honeypot - INFO - Command 'mysql -e "SELECT * FROM customers LIMIT 5;"' executed by 127.0.0.1
+2025-09-04 16:42:11,758 - honeypot - INFO - Command 'mysql -e SELECT * FROM customers LIMIT 5;' executed by 127.0.0.1
+2025-09-04 16:46:10,800 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 16:46:10,803 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 16:46:10,804 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 16:46:32,109 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 16:46:32,110 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 16:46:33,403 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 16:46:35,917 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 16:46:39,789 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 16:46:39,790 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-04 16:46:41,500 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 16:46:42,906 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-04 16:46:48,683 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 16:46:48,685 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-04 16:47:06,210 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-04 16:47:35,067 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-04 16:47:35,067 - honeypot - INFO - Command 'mysql -e show databases;' executed by 127.0.0.1
+2025-09-04 16:47:48,731 - honeypot - INFO - Command 'mysql -e "show tables;"' executed by 127.0.0.1
+2025-09-04 16:47:48,731 - honeypot - INFO - Command 'mysql -e show tables;' executed by 127.0.0.1
+2025-09-04 16:48:04,097 - honeypot - INFO - Command 'mysql -e "SELECT * FROM customers LIMIT 5;"' executed by 127.0.0.1
+2025-09-04 16:48:04,170 - honeypot - INFO - Command 'mysql -e SELECT * FROM customers LIMIT 5;' executed by 127.0.0.1
+2025-09-04 18:30:09,834 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-04 18:30:09,836 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-04 18:30:09,837 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-04 18:30:29,003 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-04 18:30:29,004 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-04 18:30:30,452 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-04 18:30:38,391 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-10 11:48:42,988 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-10 11:48:42,994 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-10 11:48:42,995 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-10 11:49:16,442 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-10 11:49:16,442 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-10 11:49:22,293 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-10 11:49:37,567 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-10 11:49:50,927 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-10 11:49:50,927 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-10 11:49:51,936 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-10 11:49:59,693 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-10 11:50:11,613 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-10 11:50:11,613 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-10 11:51:06,887 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-10 11:51:55,969 - honeypot - INFO - Command 'ls -l' executed by 127.0.0.1
+2025-09-10 11:52:03,678 - honeypot - INFO - Command 'ls -l' executed by 127.0.0.1
+2025-09-10 11:52:54,232 - honeypot - INFO - Command 'tail /var/log/auth.log' executed by 127.0.0.1
+2025-09-10 11:52:54,234 - honeypot - INFO - File tail: /var/log/auth.log by 127.0.0.1
+2025-09-10 11:52:54,234 - honeypot - INFO - Command 'tail /var/log/auth.log' executed by 127.0.0.1
+2025-09-10 11:54:04,288 - honeypot - INFO - SSH auth attempt: admin:admin@123 from 127.0.0.1
+2025-09-10 11:54:04,288 - honeypot - INFO - SSH auth FAILED: admin from 127.0.0.1
+2025-09-10 11:54:07,232 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-10 11:54:07,232 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-10 11:54:16,691 - honeypot - INFO - Command 'cd' executed by 127.0.0.1
+2025-09-10 11:54:16,691 - honeypot - INFO - Command 'cd ' executed by 127.0.0.1
+2025-09-10 11:54:18,234 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-10 11:54:25,210 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-10 11:54:30,136 - honeypot - INFO - Command 'tail /var/log/auth.log' executed by 127.0.0.1
+2025-09-10 11:54:30,136 - honeypot - INFO - File tail: /var/log/auth.log by 127.0.0.1
+2025-09-10 11:54:30,136 - honeypot - INFO - Command 'tail /var/log/auth.log' executed by 127.0.0.1
+2025-09-10 11:54:58,446 - honeypot - INFO - Command 'show databases;' executed by 127.0.0.1
+2025-09-10 11:54:58,446 - honeypot - INFO - Command 'show databases;' executed by 127.0.0.1
+2025-09-10 11:55:11,620 - honeypot - INFO - Command 'mysql -u "show databases";' executed by 127.0.0.1
+2025-09-10 11:55:28,389 - honeypot - INFO - Command 'mysql -u "show databases;"' executed by 127.0.0.1
+2025-09-10 11:55:53,132 - honeypot - INFO - Command 'mysql -u "root" -p "admin123"' executed by 127.0.0.1
+2025-09-10 11:56:01,051 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-10 11:56:01,051 - honeypot - INFO - Command 'mysql -e show databases;' executed by 127.0.0.1
+2025-09-10 11:56:25,177 - honeypot - INFO - Command 'mysql -e "show tables;"' executed by 127.0.0.1
+2025-09-10 11:56:25,177 - honeypot - INFO - Command 'mysql -e show tables;' executed by 127.0.0.1
+2025-09-10 11:57:00,007 - honeypot - INFO - Command 'mysql -e "SELECT * FROM customers LIMIT 5;"' executed by 127.0.0.1
+2025-09-10 11:57:00,162 - honeypot - INFO - Command 'mysql -e SELECT * FROM customers LIMIT 5;' executed by 127.0.0.1
+2025-09-15 12:36:54,325 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-15 12:36:54,328 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-15 12:36:54,329 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-15 12:38:03,221 - honeypot - INFO - SSH auth attempt: admin:admin123 from 127.0.0.1
+2025-09-15 12:38:03,221 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-15 12:38:10,072 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-15 12:38:22,292 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-15 12:38:41,395 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-15 12:38:41,396 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-15 12:38:42,911 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-15 12:38:54,280 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-15 12:39:11,658 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-15 12:39:11,661 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-15 12:39:20,864 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-15 12:40:03,359 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-15 12:40:03,375 - honeypot - INFO - Command 'mysql -e show databases;' executed by 127.0.0.1
+2025-09-15 12:40:16,257 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-15 12:40:16,258 - honeypot - INFO - Command 'mysql -e show databases;' executed by 127.0.0.1
+2025-09-15 12:41:03,796 - honeypot - INFO - Command 'mysql -e "show tables;"' executed by 127.0.0.1
+2025-09-15 12:41:03,797 - honeypot - INFO - Command 'mysql -e show tables;' executed by 127.0.0.1
+2025-09-15 12:41:19,012 - honeypot - INFO - Command 'ps aux' executed by 127.0.0.1
+2025-09-15 12:41:26,362 - honeypot - INFO - Command 'ps aux' executed by 127.0.0.1
+2025-09-15 12:41:54,287 - honeypot - INFO - Command 'netstat -an' executed by 127.0.0.1
+2025-09-15 12:42:01,405 - honeypot - INFO - Command 'netstat -an' executed by 127.0.0.1
+2025-09-15 12:54:49,714 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-15 12:54:49,717 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-15 12:54:49,718 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-15 12:57:04,648 - honeypot - INFO - SSH auth attempt: admin:admin@123 from 127.0.0.1
+2025-09-15 12:57:04,648 - honeypot - INFO - SSH auth FAILED: admin from 127.0.0.1
+2025-09-15 12:57:43,392 - honeypot - INFO - SSH auth attempt: admin:admin@123 from 127.0.0.1
+2025-09-15 12:57:43,392 - honeypot - INFO - SSH auth FAILED: admin from 127.0.0.1
+2025-09-15 12:57:49,673 - honeypot - INFO - SSH auth attempt: admin:admin from 127.0.0.1
+2025-09-15 12:57:49,673 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-15 12:59:00,302 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-15 12:59:08,719 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-15 12:59:16,913 - honeypot - INFO - Command 'netstat -an' executed by 127.0.0.1
+2025-09-15 12:59:29,622 - honeypot - INFO - Command 'netstat -an' executed by 127.0.0.1
+2025-09-15 13:05:29,069 - honeypot - INFO - Command 'ps -aux' executed by 127.0.0.1
+2025-09-15 13:05:35,801 - honeypot - INFO - Command 'ps -aux' executed by 127.0.0.1
+2025-09-15 13:06:55,262 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-15 13:07:02,002 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-15 13:08:07,174 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-15 13:08:07,175 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-15 13:08:08,786 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-15 13:08:15,456 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-15 13:08:25,081 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-15 13:08:25,086 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-15 13:08:35,130 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-15 13:08:51,687 - honeypot - INFO - Command 'ps aux' executed by 127.0.0.1
+2025-09-15 13:08:58,653 - honeypot - INFO - Command 'ps aux' executed by 127.0.0.1
+2025-09-15 13:28:01,664 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-15 13:28:01,667 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-15 13:28:01,667 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-15 13:28:24,265 - honeypot - INFO - SSH auth attempt: admin:admin from 127.0.0.1
+2025-09-15 13:28:24,265 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-15 13:28:45,603 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-15 13:28:53,733 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-15 13:30:10,378 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-15 13:30:10,379 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-15 13:30:14,026 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-15 13:30:20,586 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-15 13:31:02,041 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-15 13:31:02,045 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-15 13:31:11,993 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-15 13:31:49,433 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-15 13:31:49,437 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-09-15 13:32:42,790 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-09-15 13:33:55,217 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-15 13:33:55,217 - honeypot - INFO - Command 'mysql -e show databases;' executed by 127.0.0.1
+2025-09-15 13:34:45,704 - honeypot - INFO - Command 'mysql -e "show tables;"' executed by 127.0.0.1
+2025-09-15 13:34:45,705 - honeypot - INFO - Command 'mysql -e show tables;' executed by 127.0.0.1
+2025-09-15 13:35:45,797 - honeypot - INFO - Command 'mysql -e "select * from customers limit 5;"' executed by 127.0.0.1
+2025-09-15 13:35:45,943 - honeypot - INFO - Command 'mysql -e select * from customers limit 5;' executed by 127.0.0.1
+2025-09-15 13:43:15,893 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-15 13:43:15,894 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-15 13:43:20,249 - honeypot - INFO - Command 'hostname' executed by 127.0.0.1
+2025-09-15 13:43:20,250 - honeypot - INFO - Command 'hostname' executed by 127.0.0.1
+2025-09-15 13:43:23,194 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-15 13:43:23,195 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-15 13:43:26,387 - honeypot - INFO - Command 'id' executed by 127.0.0.1
+2025-09-15 13:43:26,388 - honeypot - INFO - Command 'id' executed by 127.0.0.1
+2025-09-15 13:43:46,232 - honeypot - INFO - Command 'uname -a' executed by 127.0.0.1
+2025-09-15 13:43:46,233 - honeypot - INFO - Command 'uname -a' executed by 127.0.0.1
+2025-09-15 13:44:42,243 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-15 13:44:48,469 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-15 13:44:57,066 - honeypot - INFO - Command 'cat notes.txt' executed by 127.0.0.1
+2025-09-15 13:44:57,070 - honeypot - INFO - File read: notes.txt by 127.0.0.1
+2025-09-15 13:45:07,466 - honeypot - INFO - Command 'cat notes.txt' executed by 127.0.0.1
+2025-09-15 13:47:05,865 - honeypot - INFO - Command 'tail /var/log/auth.log' executed by 127.0.0.1
+2025-09-15 13:47:05,866 - honeypot - INFO - File tail: /var/log/auth.log by 127.0.0.1
+2025-09-15 13:47:05,866 - honeypot - INFO - Command 'tail /var/log/auth.log' executed by 127.0.0.1
+2025-09-15 13:47:57,845 - honeypot - INFO - Command 'tail /var/log/syslog' executed by 127.0.0.1
+2025-09-15 13:47:57,846 - honeypot - INFO - File tail: /var/log/syslog by 127.0.0.1
+2025-09-15 13:47:57,847 - honeypot - INFO - Command 'tail /var/log/syslog' executed by 127.0.0.1
+2025-09-15 13:48:10,038 - honeypot - INFO - Command 'date' executed by 127.0.0.1
+2025-09-15 13:48:10,044 - honeypot - INFO - Command 'date' executed by 127.0.0.1
+2025-09-15 13:48:14,693 - honeypot - INFO - Command 'uptime' executed by 127.0.0.1
+2025-09-15 13:48:14,694 - honeypot - INFO - Command 'uptime' executed by 127.0.0.1
+2025-09-15 13:48:16,658 - honeypot - INFO - Command 'env' executed by 127.0.0.1
+2025-09-15 13:48:21,664 - honeypot - INFO - Command 'history' executed by 127.0.0.1
+2025-09-15 13:49:14,067 - honeypot - INFO - Command 'nmap' executed by 127.0.0.1
+2025-09-15 13:49:14,098 - honeypot - INFO - Command 'nmap ' executed by 127.0.0.1
+2025-09-15 15:30:36,801 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-15 15:30:36,804 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-15 15:30:36,805 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-15 15:30:49,926 - honeypot - INFO - SSH auth attempt: admin:admin from 127.0.0.1
+2025-09-15 15:30:49,927 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-15 15:31:02,668 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-15 15:31:02,669 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-15 15:31:05,599 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-15 15:31:05,599 - honeypot - INFO - Command 'pwd' executed by 127.0.0.1
+2025-09-15 15:31:08,300 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-15 15:31:16,151 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-15 15:31:26,417 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-15 15:31:26,418 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-15 15:32:10,425 - honeypot - INFO - SSH auth attempt: admin:admin from 127.0.0.1
+2025-09-15 15:32:10,425 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-15 15:32:13,637 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-15 15:32:20,161 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-15 15:32:28,138 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-15 15:32:28,154 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-15 15:32:36,627 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-15 15:33:05,802 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-15 15:33:05,804 - honeypot - INFO - Command 'mysql -e show databases;' executed by 127.0.0.1
+2025-09-15 15:33:23,985 - honeypot - INFO - Command 'mysql -e "show tables;"' executed by 127.0.0.1
+2025-09-15 15:33:23,986 - honeypot - INFO - Command 'mysql -e show tables;' executed by 127.0.0.1
+2025-09-15 15:33:46,855 - honeypot - INFO - Command 'mysql -e "select * from customers limit 3;"' executed by 127.0.0.1
+2025-09-15 15:34:27,909 - honeypot - INFO - Command 'mysql -e select * from customers limit 3;' executed by 127.0.0.1
+2025-09-17 11:18:08,818 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-09-17 11:18:08,829 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-09-17 11:18:08,832 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-09-17 11:22:14,153 - honeypot - INFO - SSH auth attempt: admin:admin from 127.0.0.1
+2025-09-17 11:22:14,153 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-09-17 12:13:10,650 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-17 12:13:10,650 - honeypot - INFO - Command 'whoami' executed by 127.0.0.1
+2025-09-17 12:15:33,772 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-17 12:15:39,714 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-17 12:15:54,471 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-17 12:15:54,480 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-09-17 12:16:07,991 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-09-17 12:16:12,766 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-09-17 12:16:40,772 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-17 12:16:40,772 - honeypot - INFO - File read: passwords.txt by 127.0.0.1
+2025-09-17 12:16:46,812 - honeypot - INFO - Command 'cat passwords.txt' executed by 127.0.0.1
+2025-09-17 12:18:35,846 - honeypot - INFO - Command 'mysql -e "show databases;"' executed by 127.0.0.1
+2025-09-17 12:18:35,846 - honeypot - INFO - Command 'mysql -e show databases;' executed by 127.0.0.1
+2025-09-17 12:20:48,298 - honeypot - INFO - Command 'mysql -e "select * from transactions limit 5;"' executed by 127.0.0.1
+2025-09-17 12:22:09,136 - honeypot - INFO - Command 'mysql -e select * from transactions limit 5;' executed by 127.0.0.1
+2025-11-20 18:45:40,968 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-11-20 18:45:40,972 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-11-20 18:45:40,973 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-11-20 18:46:28,358 - honeypot - INFO - SSH auth attempt: admin:password from 127.0.0.1
+2025-11-20 18:46:28,358 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-11-20 18:46:32,376 - honeypot - INFO - Command 'working' executed by 127.0.0.1
+2025-11-20 18:46:32,377 - honeypot - INFO - Command 'working' executed by 127.0.0.1
+2025-11-20 18:46:38,290 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-11-20 18:46:43,844 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-11-20 18:46:51,987 - honeypot - INFO - Command 'cd Downloads' executed by 127.0.0.1
+2025-11-20 18:46:51,988 - honeypot - INFO - Command 'cd Downloads' executed by 127.0.0.1
+2025-11-20 18:46:58,895 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-11-20 18:47:02,887 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-11-20 18:47:13,330 - honeypot - INFO - Command 'cd docs' executed by 127.0.0.1
+2025-11-20 18:47:13,330 - honeypot - INFO - Command 'cd docs' executed by 127.0.0.1
+2025-11-20 18:47:19,332 - honeypot - INFO - Command 'cat docs' executed by 127.0.0.1
+2025-11-20 18:47:35,000 - honeypot - INFO - Command 'cat README.md' executed by 127.0.0.1
+2025-11-29 21:17:43,125 - honeypot - INFO - Starting AI-driven Honeypot Simulator components...
+2025-11-29 21:17:43,127 - honeypot - INFO - SSH Honeypot listening on port 2222
+2025-11-29 21:17:43,127 - honeypot - INFO - FastAPI server (placeholder) would run on http://127.0.0.1:8000
+2025-11-29 21:21:29,967 - honeypot - INFO - SSH auth attempt: admin:password from 127.0.0.1
+2025-11-29 21:21:29,967 - honeypot - INFO - SSH auth SUCCESS: admin from 127.0.0.1
+2025-11-29 21:21:32,491 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-11-29 21:21:43,206 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-11-29 21:22:00,677 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-11-29 21:22:00,678 - honeypot - INFO - Command 'cd Documents' executed by 127.0.0.1
+2025-11-29 21:22:02,288 - honeypot - INFO - Command 'ls' executed by 127.0.0.1
+2025-11-29 21:22:06,417 - honeypot - INFO - Command 'ls ' executed by 127.0.0.1
+2025-11-29 21:22:21,000 - honeypot - INFO - Command 'python app.py' executed by 127.0.0.1
+2025-11-29 21:22:21,001 - honeypot - INFO - Command 'python app.py' executed by 127.0.0.1
+2025-11-29 21:22:27,264 - honeypot - INFO - Command 'python' executed by 127.0.0.1
+2025-11-29 21:22:27,265 - honeypot - INFO - Command 'python' executed by 127.0.0.1
+2025-11-29 21:22:29,381 - honeypot - INFO - Command 'p' executed by 127.0.0.1
+2025-11-29 21:22:29,382 - honeypot - INFO - Command 'p' executed by 127.0.0.1
+2025-11-29 21:22:41,019 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-11-29 21:22:41,033 - honeypot - INFO - File read: customer_data.csv by 127.0.0.1
+2025-11-29 21:23:26,316 - honeypot - INFO - Command 'cat customer_data.csv' executed by 127.0.0.1
+2025-11-29 21:24:02,575 - honeypot - INFO - Command 'clear' executed by 127.0.0.1
+2025-11-29 21:24:02,578 - honeypot - INFO - Command 'clear' executed by 127.0.0.1
+2025-11-29 21:24:05,552 - honeypot - INFO - Command 'cls' executed by 127.0.0.1
+2025-11-29 21:24:05,554 - honeypot - INFO - Command 'cls' executed by 127.0.0.1
+2025-11-29 21:29:03,547 - honeypot - INFO - Honeypot Simulator components stopped.
